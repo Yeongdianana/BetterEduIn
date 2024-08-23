@@ -55,14 +55,9 @@ The AcademicRecords contract is deployed at:
 
 ## Contact
 For any inquiries, collaboration, or support, feel free to reach out:
-- **Name:** [Your Name]
-- **Email:** [augustinemothron@mail.com]
-- **GitHub:** [github.com/yourusername]
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
+- **Name:** Augustine Mothrong
+- **Email:** augustinemothron@mail.com
+- **GitHub:** github.com/yourusername
 
 ### Explanation:
 - **Vision:** Sets the purpose and long-term goals of the project.
