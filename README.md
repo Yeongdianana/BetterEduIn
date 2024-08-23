@@ -1,14 +1,14 @@
 ![image](https://github.com/user-attachments/assets/0f0e633d-445a-45ac-8726-bb4c79f8d919)
 
 
-```markdown
+
 # AcademicRecords Smart Contract
 
 ## Vision
 The AcademicRecords smart contract aims to revolutionize the management of academic certificates by leveraging blockchain technology. This decentralized system ensures that certificates are tamper-proof, easily verifiable, and can only be issued by authorized educational institutions. Our goal is to establish a trustworthy, transparent, and secure platform for issuing and verifying academic credentials globally.
 
 ## Flowchart
-```plaintext
+
 ┌───────────────┐
 │  Admin Deploys│
 │  Contract     │
@@ -39,13 +39,13 @@ The AcademicRecords smart contract aims to revolutionize the management of acade
 │  Public Verifies│
 │  Certificates  │
 └───────────────┘
-```
 
 ## Contract Address
 The AcademicRecords contract is deployed at:
-```0xe0dca486b0cb2ad1f1aaa7494ac1b564999fbe2c
+0xe0dca486b0cb2ad1f1aaa7494ac1b564999fbe2c
 
 *Note: Replace this placeholder with the actual contract address once deployed.*
+![image](https://github.com/user-attachments/assets/e6505899-2919-4151-83be-b8ada7c5b613)
 
 ## Future Scope
 - **Certificate Expiry:** Implement certificate expiration or revocation features.
@@ -62,7 +62,7 @@ For any inquiries, collaboration, or support, feel free to reach out:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-```
+
 
 ### Explanation:
 - **Vision:** Sets the purpose and long-term goals of the project.
